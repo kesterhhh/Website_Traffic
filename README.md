@@ -6,16 +6,9 @@ This project conducts an in-depth analysis of website traffic data, leveraging a
 ![Performance Overview](1_Performance_Overview.jpg)
 *Dashboard overview showing key performance metrics including conversion rates, session duration, and bounce rates*
 
-## Table of Contents
-- [Data Cleaning](#data-cleaning)
-- [Data Quality Tests](#data-quality-tests)
-- [Power BI Analysis](#view-the-dashboard-here)
-- [Key Insights](#key-insights)
-- [Technical Methodology](#technical-methodology)
-
 ## Data Sources
 - **Dataset**: Website Traffic Dataset
-- **Total Records**: 11 initial rows (expanded during analysis)
+- **Total Records**: 2000 rows
 - **Key Metrics**: Page Views, Session Duration, Bounce Rate, Traffic Source, Time on Page, Previous Visits, Conversion Rate
 
 ![User Engagements](2_User_Engagements.jpg)
@@ -27,6 +20,9 @@ This project conducts an in-depth analysis of website traffic data, leveraging a
 - Used Common Table Expressions (CTEs) for data analysis
 - Created a cleaned view `view_website_traffic_dataset`
 - Implemented robust data quality checks
+
+**For detailed information on the data cleaning process and data quality tests performed, please refer to the following folder:**
+- SQL Scripts
 
 ### Power BI & DAX Analysis
 Advanced calculations included:

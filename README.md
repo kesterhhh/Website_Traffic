@@ -38,7 +38,7 @@ Advanced calculations included:
 ![Source Analytics](3_Source_Analytics.jpg)
 *Detailed breakdown of traffic source performance and conversion metrics*
 
-[Rest of README content remains the same...]
+**[View the Dashboard Here](https://link-to-your-powerbi-dashboard.com)**
 
 ## Key Insights
 

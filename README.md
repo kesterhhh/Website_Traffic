@@ -9,7 +9,7 @@ This project conducts an in-depth analysis of website traffic data, leveraging a
 ## Table of Contents
 - [Data Cleaning](#data-cleaning)
 - [Data Quality Tests](#data-quality-tests)
-- [Power BI Analysis](#View-the-Dashboard-Here)
+- [Power BI Analysis](#view-the-dashboard-here)
 - [Key Insights](#key-insights)
 - [Technical Methodology](#technical-methodology)
 

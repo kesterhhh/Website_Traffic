@@ -77,7 +77,3 @@ Advanced calculations included:
 ## Links
 - [HNG Internship](https://hng.tech/internship)
 - [Data Analyst Opportunities](https://hng.tech/hire/data-analysts)
-
-## Contact
-[Your Name]
-[Your Email/LinkedIn]
